@@ -14,4 +14,3 @@ Installation (MacOS):
 - Select `Italian (Mandriota)` keyboard and click `Add`.
 
 ![Keyboard Layout](./it-mandriota-keylayout.png)
-AAW
