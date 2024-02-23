@@ -2,8 +2,8 @@
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 387 on 2024-02-20 at 18:55 (CET)-->
 <!--Copyright 2024 Mark Mandriota-->
-<!--Last edited by Ukelele version 387 on 2024-02-22 at 18:07 (CET)-->
-<keyboard group="126" id="-17422" name="Italian (Mandriota)" maxout="1">
+<!--Last edited by Ukelele version 387 on 2024-02-23 at 13:40 (CET)-->
+<keyboard group="126" id="-6048" name="Italian (Mandriota)" maxout="1">
     <layouts>
         <layout first="0" last="17" mapSet="ANSI" modifiers="Modifiers"/>
         <layout first="18" last="18" mapSet="JIS" modifiers="Modifiers"/>
@@ -472,7 +472,7 @@
             <key code="7" output="x"/>
             <key code="8" output="c"/>
             <key code="9" output="v"/>
-            <key code="10" output="\"/>
+            <key code="10" output="|"/>
             <key code="11" output="b"/>
             <key code="12" output="q"/>
             <key code="13" output="w"/>
@@ -480,36 +480,36 @@
             <key code="15" output="r"/>
             <key code="16" output="y"/>
             <key code="17" output="t"/>
-            <key code="18" output="1"/>
-            <key code="19" output="2"/>
-            <key code="20" output="3"/>
-            <key code="21" output="4"/>
-            <key code="22" output="6"/>
-            <key code="23" output="5"/>
-            <key code="24" output=")"/>
-            <key code="25" output="9"/>
-            <key code="26" output="7"/>
-            <key code="27" output="("/>
-            <key code="28" output="8"/>
-            <key code="29" output="0"/>
-            <key code="30" output="]"/>
+            <key code="18" output="!"/>
+            <key code="19" output="~"/>
+            <key code="20" output="?"/>
+            <key code="21" output="$"/>
+            <key code="22" output="&#x0026;"/>
+            <key code="23" output="%"/>
+            <key code="24" output="&#x003E;"/>
+            <key code="25" output="&#x0027;"/>
+            <key code="26" output="@"/>
+            <key code="27" output="&#x003C;"/>
+            <key code="28" output="`"/>
+            <key code="29" output="&#x0022;"/>
+            <key code="30" output="}"/>
             <key code="31" action="o 1"/>
             <key code="32" action="u 1"/>
-            <key code="33" output="["/>
+            <key code="33" output="{"/>
             <key code="34" action="i 2"/>
             <key code="35" output="p"/>
             <key code="36" output="&#x000D;"/>
             <key code="37" output="l"/>
             <key code="38" output="j"/>
-            <key code="39" output="*"/>
+            <key code="39" output="^"/>
             <key code="40" output="k"/>
-            <key code="41" output="/"/>
-            <key code="42" output="="/>
-            <key code="43" output=","/>
-            <key code="44" output="-"/>
+            <key code="41" output="+"/>
+            <key code="42" output="#"/>
+            <key code="43" output=";"/>
+            <key code="44" output="_"/>
             <key code="45" output="n"/>
             <key code="46" output="m"/>
-            <key code="47" output="."/>
+            <key code="47" output=":"/>
             <key code="48" output="&#x0009;"/>
             <key code="49" output=""/>
             <key code="50" action="´"/>
@@ -756,7 +756,7 @@
             <when state="Equal" output="≠"/>
         </action>
         <action id="∼">
-            <when state="none" output="∼"/>
+            <when state="none" output="~"/>
             <when state="Equal" output="≈"/>
         </action>
         <action id="⊂">
